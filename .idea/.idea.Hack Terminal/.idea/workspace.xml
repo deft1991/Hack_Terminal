@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87a3e633-9e20-42d2-9857-e443c33a0a4e" name="Default Changelist" comment="">
+    <list default="true" id="87a3e633-9e20-42d2-9857-e443c33a0a4e" name="Default Changelist" comment="Added passwords for other levels">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Hacker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hacker.cs" afterDir="false" />
     </list>
@@ -76,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601746934492</updated>
-      <workItem from="1601746948754" duration="8140000" />
+      <workItem from="1601746948754" duration="9087000" />
     </task>
+    <task id="LOCAL-00001" summary="Added passwords for other levels">
+      <created>1601827486379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601827486380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +95,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added passwords for other levels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added passwords for other levels" />
   </component>
   <component name="WindowStateProjectService">
     <state x="750" y="442" key="Github.ShareDialog" timestamp="1601824784231">
@@ -165,6 +175,10 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="397" y="177" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1601746958717" />
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2" timestamp="1601827488126">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1601827488126" />
     <state x="552" y="293" width="688" height="490" key="find.popup" timestamp="1601809384613">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>

@@ -5,8 +5,12 @@ using UnityEngine;
 
 public class Hacker : MonoBehaviour
 {
-    private Level level; // Game state
+    // Game state
+    private Level level;
+    private Screen currentScreen;
+    private String password;
 
+    // Game configuration date
     private readonly List<String> firstLevelPass = new List<string>
         {"dog", "cat", "pet", "pig", "tiger"};
 
@@ -29,8 +33,6 @@ public class Hacker : MonoBehaviour
         Second,
         Third
     }
-
-    private Screen currentScreen;
 
     // Start is called before the first frame update
     void Start()
@@ -77,24 +79,34 @@ public class Hacker : MonoBehaviour
 
     private void CheckPassword(string message)
     {
+        preparePasswordForCheck();
+
+        if (password == message)
+        {
+            Terminal.WriteLine("Success");
+            ShowMainMenu();
+        }
+        else
+        {
+            Terminal.WriteLine("Try again");
+        }
+    }
+
+    private void preparePasswordForCheck()
+    {
         switch (level)
         {
-            case Level.First when firstLevelPass.Contains(message):
-                Terminal.WriteLine("Success");
-                Terminal.WriteLine("Success");
-                ShowMainMenu();
+            case Level.First:
+                password = firstLevelPass[0];
                 break;
-            case Level.Second when secondLevelPass.Contains(message):
-                Terminal.WriteLine("Success");
-                Terminal.WriteLine("Success");
-                ShowMainMenu();
+            case Level.Second:
+                password = secondLevelPass[0];
                 break;
-            case Level.Third when thirdLevelPass.Contains(message):
-                Terminal.WriteLine("Success");
-                ShowMainMenu();
+            case Level.Third:
+                password = thirdLevelPass[0];
                 break;
             default:
-                Terminal.WriteLine("Try again");
+                password = "random";
                 break;
         }
     }
