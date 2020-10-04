@@ -5,7 +5,16 @@ using UnityEngine;
 
 public class Hacker : MonoBehaviour
 {
-    private int level; // Game state
+    private Level level; // Game state
+
+    private readonly List<String> firstLevelPass = new List<string>
+        {"dog", "cat", "pet", "pig", "tiger"};
+
+    private readonly List<String> secondLevelPass = new List<string>
+        {"spring", "hibernate", "orm", "garbage", "object"};
+
+    private readonly List<String> thirdLevelPass = new List<string>
+        {"anchor", "cloud", "google", "unity", "vuforia"};
 
     private enum Screen
     {
@@ -14,7 +23,14 @@ public class Hacker : MonoBehaviour
         Win
     }
 
-    private Screen currentScreen = Screen.MainMenu;
+    private enum Level
+    {
+        First,
+        Second,
+        Third
+    }
+
+    private Screen currentScreen;
 
     // Start is called before the first frame update
     void Start()
@@ -26,6 +42,7 @@ public class Hacker : MonoBehaviour
 
     private void ShowMainMenu()
     {
+        currentScreen = Screen.MainMenu;
         Terminal.ClearScreen();
         Terminal.WriteLine("What would you hack into?");
         Terminal.WriteLine("");
@@ -52,6 +69,34 @@ public class Hacker : MonoBehaviour
         {
             RunMainMenu(message);
         }
+        else if (Screen.WaitingForPassword == currentScreen)
+        {
+            CheckPassword(message);
+        }
+    }
+
+    private void CheckPassword(string message)
+    {
+        switch (level)
+        {
+            case Level.First when firstLevelPass.Contains(message):
+                Terminal.WriteLine("Success");
+                Terminal.WriteLine("Success");
+                ShowMainMenu();
+                break;
+            case Level.Second when secondLevelPass.Contains(message):
+                Terminal.WriteLine("Success");
+                Terminal.WriteLine("Success");
+                ShowMainMenu();
+                break;
+            case Level.Third when thirdLevelPass.Contains(message):
+                Terminal.WriteLine("Success");
+                ShowMainMenu();
+                break;
+            default:
+                Terminal.WriteLine("Try again");
+                break;
+        }
     }
 
     private void RunMainMenu(string message)
@@ -59,15 +104,15 @@ public class Hacker : MonoBehaviour
         switch (message)
         {
             case "1":
-                level = 1;
+                level = Level.First;
                 StartGame();
                 break;
             case "2":
-                level = 2;
+                level = Level.Second;
                 StartGame();
                 break;
             case "3":
-                level = 3;
+                level = Level.Third;
                 StartGame();
                 break;
             default:
