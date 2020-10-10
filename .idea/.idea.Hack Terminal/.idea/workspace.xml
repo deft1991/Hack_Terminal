@@ -1,9 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87a3e633-9e20-42d2-9857-e443c33a0a4e" name="Default Changelist" comment="Added passwords for other levels">
+    <list default="true" id="87a3e633-9e20-42d2-9857-e443c33a0a4e" name="Default Changelist" comment="Refactor">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hacker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hacker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HackTerminal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HackTerminal.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-173421c51123341d6860789be311d824" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-18bf2b6741499451eb68c67664032057" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1a4a9b96005ae43ca9a6aa01c26a1a9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1c9546c1e7ead4687aa60d6f241f5d45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1fa15b9e7f82f49b89b697467db18cef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-275bbd7c7c4fd469ba0c8badb8e508e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-29c25493f9d2a49acb52d50883297753" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2af7c10ace6004e9aaf2d5f320f14046" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2e2caca0bdd8e4a3fb577b1cad42454b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2f8f8751e53a94aa4987891936f1a0c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-333eafe0e058f448ebaa33400374a1f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-351b8ffcc3596459392d68978fe52f8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-35be212e777e7470098bd1f15f5f62a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3bbafbc56080e4ae7b9da6cd8eda5048" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4f9770eebc8e140d8a8a85da8358215d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-52a41f7f6612b41b0aed89cfeb1badd9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-52ca18ac41aca45a7be9a12727e2841c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-58d8ea57dcbb44036a6ba2d5d4882d5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-61e9aa3548c31422fa417585ba64791d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-69aed540fa11b4003b771fbf3d515063" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-70b0611d99aa947d1a73dcd5a9ef5f0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7795735e2b66c492e81b4281327ad2a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7f4170ca1529e4e8f810b645a49afb5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7ff5bef563bd14072ab7e90fc8d51cb2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8767f57d00a444cfeb5a2829d88f34fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8af4b7f47f42e469a8740a7909fc1ec2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8d27319b1980e4aa1a6f2106f3bfbab2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9aa33ee09894046f0bc937818cd3b494" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a11e1d89a82eb459c91f7f835fade435" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a7c55a5a587a247858ac6914d8378e77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a801b48e0104040a2ac558dd591ccaca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a8d30936274514b4fbe5a75f8c33318c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-aedb5481d62cf4269964aa94be02d67d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b0fdb3b31d2924d12bec4de5cfec4cac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b8b0a77049b1144e1ace8112cb7924df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bb0da0dd07af240268ff453821a737d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bb582bc9bdc6a44c093a8a075588ef3b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bb9799876298e446f93a598775be43bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bde4d5fc681564655aacfc97baf44870" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c72ed01f53517400dbf920ba63a17829" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d16d243e80062442d9dcc7587c9a0d92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d431994f11ff845968402e3e6c0b18ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d6aa6d2d9f8c047a88c44f7471426926" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-db348eb4b876b4094a11c1e1f6ba7d0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ec7ed6ffddf864c17b33b0b15f128bed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ee6408213c1ab46f29d56630117d2965" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f1f60bf2ec5e2410db16b51e853be4ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f55719c7cdc2048aa836294f05bf8e6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fb2630a5c9561487080c9e91be18a8e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601746934492</updated>
-      <workItem from="1601746948754" duration="9087000" />
+      <workItem from="1601746948754" duration="10365000" />
     </task>
     <task id="LOCAL-00001" summary="Added passwords for other levels">
       <created>1601827486379</created>
@@ -85,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601827486380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactor">
+      <created>1601829971354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601829971354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added passwords for other levels" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added passwords for other levels" />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="750" y="442" key="Github.ShareDialog" timestamp="1601824784231">
@@ -175,10 +235,10 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="397" y="177" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1601746958717" />
-    <state x="496" y="278" key="Vcs.Push.Dialog.v2" timestamp="1601827488126">
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2" timestamp="1601829973029">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="496" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1601827488126" />
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1601829973029" />
     <state x="552" y="293" width="688" height="490" key="find.popup" timestamp="1601809384613">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
