@@ -7,28 +7,30 @@ using Random = UnityEngine.Random;
 public class Hacker : MonoBehaviour
 {
     // Game state
-    private Level level;
-    private Screen currentScreen;
-    private String password;
+    private Level _level;
+    private Screen _currentScreen;
+    private String _password;
+
+    private const String MenuHint = "You can type \"menu\" at any time.";
 
     // Game configuration date
-    private readonly List<String> firstLevelPass = new List<string>
+    private readonly List<String> _firstLevelPass = new List<string>
         {"dog", "cat", "pet", "pig", "tiger"};
 
-    private readonly List<String> secondLevelPass = new List<string>
+    private readonly List<String> _secondLevelPass = new List<string>
         {"spring", "hibernate", "orm", "garbage", "object"};
 
-    private readonly List<String> thirdLevelPass = new List<string>
+    private readonly List<String> _thirdLevelPass = new List<string>
         {"anchor", "cloud", "google", "unity", "vuforia"};
 
-    private readonly String firstLevelReward = @"
+    private const String FirstLevelReward = @"
        (_    ,_,    _) 
        / `'--) (--'` \
       /  _,-'\_/'-,_  \
      /.-'              \
 ";
 
-    private readonly String secondLevelReward = @"
+    private const String SecondLevelReward = @"
       #                      
       #   ##   #    #   ##   
       #  #  #  #    #  #  #  
@@ -38,7 +40,7 @@ public class Hacker : MonoBehaviour
  #####  #    #   ##   #    # 
 ";
 
-    private readonly String thirdLevelReward = @"
+    private const String ThirdLevelReward = @"
    #    ######  
   # #   #     # 
  #   #  #     # 
@@ -48,7 +50,7 @@ public class Hacker : MonoBehaviour
 #     # #     # 
 ";
 
-    private readonly String defaultReward = @"
+    private const String DefaultReward = @"
                :                
                ;                
               :                 
@@ -72,7 +74,8 @@ public class Hacker : MonoBehaviour
     {
         First,
         Second,
-        Third
+        Third,
+        Secret
     }
 
     // Start is called before the first frame update
@@ -85,7 +88,7 @@ public class Hacker : MonoBehaviour
 
     private void ShowMainMenu()
     {
-        currentScreen = Screen.MainMenu;
+        _currentScreen = Screen.MainMenu;
         Terminal.ClearScreen();
         Terminal.WriteLine("What would you hack into?");
         Terminal.WriteLine("");
@@ -108,15 +111,20 @@ public class Hacker : MonoBehaviour
         {
             ShowMainMenu();
         }
-        else if (Screen.MainMenu == currentScreen)
+        else if ("exit".Equals(message) || "close" == message || "quit" == message)
+        {
+            Terminal.WriteLine("It on the Web close the tab");
+            Application.Quit();
+        }
+        else if (Screen.MainMenu == _currentScreen)
         {
             RunMainMenu(message);
         }
-        else if (Screen.WaitingForPassword == currentScreen)
+        else if (Screen.WaitingForPassword == _currentScreen)
         {
             CheckPassword(message);
         }
-        else if (Screen.Win == currentScreen)
+        else if (Screen.Win == _currentScreen)
         {
             ShowMainMenu();
         }
@@ -124,38 +132,38 @@ public class Hacker : MonoBehaviour
 
     private void CheckPassword(string message)
     {
-        if (password == message)
+        if (_password == message)
         {
             DisplayWinScreen();
         }
         else
         {
-           AskForPassword();
+            AskForPassword();
         }
     }
 
     private void DisplayWinScreen()
     {
-        currentScreen = Screen.Win;
+        _currentScreen = Screen.Win;
         Terminal.ClearScreen();
         ShowLevelReward();
     }
 
     private void ShowLevelReward()
     {
-        switch (level)
+        switch (_level)
         {
             case Level.First:
-                ShowLevelReward(firstLevelReward);
+                ShowLevelReward(FirstLevelReward);
                 break;
             case Level.Second:
-                ShowLevelReward(secondLevelReward);
+                ShowLevelReward(SecondLevelReward);
                 break;
             case Level.Third:
-                ShowLevelReward(thirdLevelReward);
+                ShowLevelReward(ThirdLevelReward);
                 break;
             default:
-                ShowLevelReward(defaultReward);
+                ShowLevelReward(DefaultReward);
                 break;
         }
 
@@ -171,22 +179,22 @@ public class Hacker : MonoBehaviour
     private void PreparePasswordForCheck()
     {
         int randIdx = 0;
-        switch (level)
+        switch (_level)
         {
             case Level.First:
-                randIdx = Random.Range(0, firstLevelPass.Count);
-                password = firstLevelPass[randIdx];
+                randIdx = Random.Range(0, _firstLevelPass.Count);
+                _password = _firstLevelPass[randIdx];
                 break;
             case Level.Second:
-                randIdx = Random.Range(0, secondLevelPass.Count);
-                password = secondLevelPass[randIdx];
+                randIdx = Random.Range(0, _secondLevelPass.Count);
+                _password = _secondLevelPass[randIdx];
                 break;
             case Level.Third:
-                randIdx = Random.Range(0, thirdLevelPass.Count);
-                password = thirdLevelPass[randIdx];
+                randIdx = Random.Range(0, _thirdLevelPass.Count);
+                _password = _thirdLevelPass[randIdx];
                 break;
             default:
-                password = "random";
+                _password = "random";
                 break;
         }
     }
@@ -196,28 +204,31 @@ public class Hacker : MonoBehaviour
         switch (message)
         {
             case "1":
-                level = Level.First;
+                _level = Level.First;
                 AskForPassword();
                 break;
             case "2":
-                level = Level.Second;
+                _level = Level.Second;
                 AskForPassword();
                 break;
             case "3":
-                level = Level.Third;
+                _level = Level.Third;
                 AskForPassword();
                 break;
             default:
                 Terminal.WriteLine("Hello cheater. You chose secret level " + message);
+                _level = Level.Secret;
+                AskForPassword();
                 break;
         }
     }
 
     void AskForPassword()
     {
-        currentScreen = Screen.WaitingForPassword;
+        _currentScreen = Screen.WaitingForPassword;
         Terminal.ClearScreen();
         PreparePasswordForCheck();
-        Terminal.WriteLine("Enter your password, hint: " + password.Anagram());
+        Terminal.WriteLine("Enter your password, hint: " + _password.Anagram());
+        Terminal.WriteLine(MenuHint);
     }
 }
