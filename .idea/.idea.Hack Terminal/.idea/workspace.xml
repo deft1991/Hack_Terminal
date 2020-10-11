@@ -4,58 +4,14 @@
     <list default="true" id="87a3e633-9e20-42d2-9857-e443c33a0a4e" name="Default Changelist" comment="Refactor">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HackTerminal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HackTerminal.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-173421c51123341d6860789be311d824" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-18bf2b6741499451eb68c67664032057" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1a4a9b96005ae43ca9a6aa01c26a1a9f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1c9546c1e7ead4687aa60d6f241f5d45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1fa15b9e7f82f49b89b697467db18cef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-275bbd7c7c4fd469ba0c8badb8e508e7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-29c25493f9d2a49acb52d50883297753" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2af7c10ace6004e9aaf2d5f320f14046" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2e2caca0bdd8e4a3fb577b1cad42454b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2f8f8751e53a94aa4987891936f1a0c4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-333eafe0e058f448ebaa33400374a1f9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-351b8ffcc3596459392d68978fe52f8d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-35be212e777e7470098bd1f15f5f62a8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3bbafbc56080e4ae7b9da6cd8eda5048" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4f9770eebc8e140d8a8a85da8358215d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-52a41f7f6612b41b0aed89cfeb1badd9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-52ca18ac41aca45a7be9a12727e2841c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-58d8ea57dcbb44036a6ba2d5d4882d5f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-61e9aa3548c31422fa417585ba64791d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-69aed540fa11b4003b771fbf3d515063" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-70b0611d99aa947d1a73dcd5a9ef5f0f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7795735e2b66c492e81b4281327ad2a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7f4170ca1529e4e8f810b645a49afb5a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7ff5bef563bd14072ab7e90fc8d51cb2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8767f57d00a444cfeb5a2829d88f34fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8af4b7f47f42e469a8740a7909fc1ec2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8d27319b1980e4aa1a6f2106f3bfbab2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9aa33ee09894046f0bc937818cd3b494" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a11e1d89a82eb459c91f7f835fade435" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a7c55a5a587a247858ac6914d8378e77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a801b48e0104040a2ac558dd591ccaca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a8d30936274514b4fbe5a75f8c33318c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-aedb5481d62cf4269964aa94be02d67d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b0fdb3b31d2924d12bec4de5cfec4cac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b8b0a77049b1144e1ace8112cb7924df" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bb0da0dd07af240268ff453821a737d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bb582bc9bdc6a44c093a8a075588ef3b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bb9799876298e446f93a598775be43bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bde4d5fc681564655aacfc97baf44870" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c72ed01f53517400dbf920ba63a17829" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d16d243e80062442d9dcc7587c9a0d92" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d431994f11ff845968402e3e6c0b18ac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d6aa6d2d9f8c047a88c44f7471426926" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-db348eb4b876b4094a11c1e1f6ba7d0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ec7ed6ffddf864c17b33b0b15f128bed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ee6408213c1ab46f29d56630117d2965" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f1f60bf2ec5e2410db16b51e853be4ce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f55719c7cdc2048aa836294f05bf8e6c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fb2630a5c9561487080c9e91be18a8e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hacker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hacker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack Terminal.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Hack Terminal.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +24,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B005E635-06C3-47B5-9F29-9010DBD87C23/d9/3d05e18e/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file:///Applications/Unity/Hub/Editor/2019.4.9f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/94/eb24392d/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Hacker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B005E635-06C3-47B5-9F29-9010DBD87C23/2b/31eab9c2/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file:///Applications/Unity/Hub/Editor/2019.4.9f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs" root0="SKIP_HIGHLIGHTING" />
@@ -110,10 +67,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="13294">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="72247">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="13294" />
+      <option name="pid" value="72247" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -128,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601746934492</updated>
-      <workItem from="1601746948754" duration="10365000" />
+      <workItem from="1601746948754" duration="14085000" />
     </task>
     <task id="LOCAL-00001" summary="Added passwords for other levels">
       <created>1601827486379</created>
@@ -144,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601829971354</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactor">
+      <created>1602326878658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602326878658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,78 +131,78 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="584" y="251" key="Github.UntrackedFilesDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1601824831147" />
-    <state width="1750" height="196" key="GridCell.Tab.0.bottom" timestamp="1601825128423">
+    <state width="1750" height="266" key="GridCell.Tab.0.bottom" timestamp="1602417339202">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128423" />
-    <state width="1750" height="196" key="GridCell.Tab.0.center" timestamp="1601825128423">
+    <state width="1750" height="266" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339202" />
+    <state width="1750" height="266" key="GridCell.Tab.0.center" timestamp="1602417339202">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128423" />
-    <state width="1750" height="196" key="GridCell.Tab.0.left" timestamp="1601825128422">
+    <state width="1750" height="266" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339202" />
+    <state width="1750" height="266" key="GridCell.Tab.0.left" timestamp="1602417339201">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128422" />
-    <state width="1750" height="196" key="GridCell.Tab.0.right" timestamp="1601825128423">
+    <state width="1750" height="266" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339201" />
+    <state width="1750" height="266" key="GridCell.Tab.0.right" timestamp="1602417339202">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128423" />
-    <state width="1750" height="196" key="GridCell.Tab.1.bottom" timestamp="1601825128424">
+    <state width="1750" height="266" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339202" />
+    <state width="1750" height="266" key="GridCell.Tab.1.bottom" timestamp="1602417432444">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.1.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128424" />
-    <state width="1750" height="196" key="GridCell.Tab.1.center" timestamp="1601825128424">
+    <state width="1750" height="266" key="GridCell.Tab.1.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1602417432444" />
+    <state width="1750" height="266" key="GridCell.Tab.1.center" timestamp="1602417432443">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.1.center/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128424" />
-    <state width="1750" height="196" key="GridCell.Tab.1.left" timestamp="1601825128424">
+    <state width="1750" height="266" key="GridCell.Tab.1.center/0.23.1792.1031@0.23.1792.1031" timestamp="1602417432443" />
+    <state width="1750" height="266" key="GridCell.Tab.1.left" timestamp="1602417432443">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.1.left/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128424" />
-    <state width="1750" height="196" key="GridCell.Tab.1.right" timestamp="1601825128424">
+    <state width="1750" height="266" key="GridCell.Tab.1.left/0.23.1792.1031@0.23.1792.1031" timestamp="1602417432443" />
+    <state width="1750" height="266" key="GridCell.Tab.1.right" timestamp="1602417432444">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.1.right/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128424" />
-    <state width="1750" height="196" key="GridCell.Tab.2.bottom" timestamp="1601825128425">
+    <state width="1750" height="266" key="GridCell.Tab.1.right/0.23.1792.1031@0.23.1792.1031" timestamp="1602417432444" />
+    <state width="1750" height="266" key="GridCell.Tab.2.bottom" timestamp="1602417339089">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.2.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128425" />
-    <state width="1750" height="196" key="GridCell.Tab.2.center" timestamp="1601825128424">
+    <state width="1750" height="266" key="GridCell.Tab.2.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339089" />
+    <state width="1750" height="266" key="GridCell.Tab.2.center" timestamp="1602417339088">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.2.center/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128424" />
-    <state width="1750" height="196" key="GridCell.Tab.2.left" timestamp="1601825128424">
+    <state width="1750" height="266" key="GridCell.Tab.2.center/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339088" />
+    <state width="1750" height="266" key="GridCell.Tab.2.left" timestamp="1602417339088">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.2.left/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128424" />
-    <state width="1750" height="196" key="GridCell.Tab.2.right" timestamp="1601825128425">
+    <state width="1750" height="266" key="GridCell.Tab.2.left/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339088" />
+    <state width="1750" height="266" key="GridCell.Tab.2.right" timestamp="1602417339089">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.2.right/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128425" />
-    <state width="1750" height="196" key="GridCell.Tab.3.bottom" timestamp="1601825128425">
+    <state width="1750" height="266" key="GridCell.Tab.2.right/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339089" />
+    <state width="1750" height="266" key="GridCell.Tab.3.bottom" timestamp="1602417339090">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.3.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128425" />
-    <state width="1750" height="196" key="GridCell.Tab.3.center" timestamp="1601825128425">
+    <state width="1750" height="266" key="GridCell.Tab.3.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339090" />
+    <state width="1750" height="266" key="GridCell.Tab.3.center" timestamp="1602417339089">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.3.center/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128425" />
-    <state width="1750" height="196" key="GridCell.Tab.3.left" timestamp="1601825128425">
+    <state width="1750" height="266" key="GridCell.Tab.3.center/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339089" />
+    <state width="1750" height="266" key="GridCell.Tab.3.left" timestamp="1602417339089">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.3.left/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128425" />
-    <state width="1750" height="196" key="GridCell.Tab.3.right" timestamp="1601825128425">
+    <state width="1750" height="266" key="GridCell.Tab.3.left/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339089" />
+    <state width="1750" height="266" key="GridCell.Tab.3.right" timestamp="1602417339090">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="196" key="GridCell.Tab.3.right/0.23.1792.1031@0.23.1792.1031" timestamp="1601825128425" />
+    <state width="1750" height="266" key="GridCell.Tab.3.right/0.23.1792.1031@0.23.1792.1031" timestamp="1602417339090" />
     <state x="397" y="177" key="SettingsEditor" timestamp="1601746958717">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="397" y="177" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1601746958717" />
-    <state x="496" y="278" key="Vcs.Push.Dialog.v2" timestamp="1601829973029">
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2" timestamp="1602326887793">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="496" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1601829973029" />
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1602326887793" />
     <state x="552" y="293" width="688" height="490" key="find.popup" timestamp="1601809384613">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
@@ -248,17 +212,82 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/WM2000/Terminal/Terminal.cs</url>
-          <line>45</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/WM2000/Terminal/Terminal.cs" initialLine="45">
+          <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
+          <line>217</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="220">
             <startOffsets>
-              <option value="1269" />
+              <option value="5418" />
             </startOffsets>
             <endOffsets>
-              <option value="1294" />
+              <option value="5460" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
+          <line>106</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="106">
+            <startOffsets>
+              <option value="2664" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2691" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
+          <line>110</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="110">
+            <startOffsets>
+              <option value="2753" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2790" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
+          <line>114</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="114">
+            <startOffsets>
+              <option value="2858" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2905" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
+          <line>118</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="118">
+            <startOffsets>
+              <option value="2975" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3007" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
+          <line>199</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="201">
+            <startOffsets>
+              <option value="4955" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4972" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
