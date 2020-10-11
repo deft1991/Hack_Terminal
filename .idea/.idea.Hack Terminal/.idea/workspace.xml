@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87a3e633-9e20-42d2-9857-e443c33a0a4e" name="Default Changelist" comment="Refactor">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hack Terminal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hacker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hacker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
-    </list>
+    <list default="true" id="87a3e633-9e20-42d2-9857-e443c33a0a4e" name="Default Changelist" comment="Bug fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601746934492</updated>
-      <workItem from="1601746948754" duration="15640000" />
+      <workItem from="1601746948754" duration="15947000" />
     </task>
     <task id="LOCAL-00001" summary="Added passwords for other levels">
       <created>1601827486379</created>
@@ -112,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602418063042</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Bug fix">
+      <created>1602437575438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602437575438</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +123,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added passwords for other levels" />
     <MESSAGE value="Refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
+    <MESSAGE value="Bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="750" y="442" key="Github.ShareDialog" timestamp="1601824784231">
@@ -203,10 +203,10 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="397" y="177" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1601746958717" />
-    <state x="496" y="278" key="Vcs.Push.Dialog.v2" timestamp="1602418064752">
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2" timestamp="1602437577100">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="496" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1602418064752" />
+    <state x="496" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1602437577100" />
     <state x="552" y="293" width="688" height="490" key="find.popup" timestamp="1601809384613">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
@@ -217,13 +217,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
-          <line>226</line>
+          <line>227</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="220">
             <startOffsets>
-              <option value="5694" />
+              <option value="5797" />
             </startOffsets>
             <endOffsets>
-              <option value="5737" />
+              <option value="5840" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="7" />
@@ -243,52 +243,52 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
-          <line>117</line>
+          <line>118</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="110">
             <startOffsets>
-              <option value="2936" />
+              <option value="3038" />
             </startOffsets>
             <endOffsets>
-              <option value="2974" />
+              <option value="3076" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
-          <line>121</line>
+          <line>122</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="114">
             <startOffsets>
-              <option value="3042" />
+              <option value="3144" />
             </startOffsets>
             <endOffsets>
-              <option value="3090" />
+              <option value="3192" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
-          <line>125</line>
+          <line>126</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="118">
             <startOffsets>
-              <option value="3160" />
+              <option value="3262" />
             </startOffsets>
             <endOffsets>
-              <option value="3193" />
+              <option value="3295" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Hacker.cs</url>
-          <line>206</line>
+          <line>207</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Hacker.cs" initialLine="201">
             <startOffsets>
-              <option value="5156" />
+              <option value="5259" />
             </startOffsets>
             <endOffsets>
-              <option value="5173" />
+              <option value="5276" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="14" />
